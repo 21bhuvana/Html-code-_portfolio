@@ -3,4 +3,5 @@
 
 https://github.com/BhuvanaGunde21/basicportfolio.io/
 
-![image](https://github.com/BhuvanaGunde21/basicportfolio.io/assets/124451769/292475f6-9631-46ff-b764-8d2794f3cece)
+
+![image](https://github.com/BhuvanaGunde21/basicportfolio.io/assets/124451769/583d00e4-a05a-4b1d-a484-e116ea51dcd4)
